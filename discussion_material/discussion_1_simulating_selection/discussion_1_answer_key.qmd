@@ -1,0 +1,77 @@
+---
+title: "discussion_1_answer_key"
+format: docx
+---
+
+```{r}
+#| include: false
+library(tidyverse)
+d <- read.csv("Plant Fitness Data - Sheet1.csv")
+```
+
+# Question 2
+
+```{r}
+#| echo: false
+p_surv <- d %>% 
+  group_by(Plant.Size) %>% 
+  summarise(prop.survive = mean(Survive))
+p_surv
+```
+
+
+
+
+```{r}
+#| echo: false
+p_surv %>% 
+  ggplot(aes(x = Plant.Size, y = prop.survive)) +
+  geom_line() +
+  geom_point() +
+  labs(x = "Plant Size",
+       y = "Proportion Survive")
+```
+
+# Question 3
+
+```{r}
+#| echo: false
+d %>% 
+  mutate(survive = factor(Survive)) %>% 
+  ggplot(aes(x = Plant.Size, fill = survive)) +
+  geom_histogram(position = "stack", binwidth = 1, color = "black") +
+  scale_fill_manual(values = c("grey", "white")) +
+  theme_minimal() +
+  labs(x = "Plant Size")
+```
+
+# Question 4
+
+```{r}
+#| echo: false
+round(mean(d$Plant.Size[d$Survive==1]) - mean(d$Plant.Size),2)
+```
+# question 5
+
+```{r}
+#| echo: false
+d %>% 
+  mutate(dist2 = (Plant.Size - 10.5)^2) %>% 
+  group_by(dist2) %>% 
+  summarise(prop.survive = mean(Survive))
+```
+
+```{r}
+#| echo: false
+d %>% 
+  mutate(dist2 = (Plant.Size - 10.5)^2) %>% 
+  group_by(dist2) %>% 
+  summarise(prop.survive = mean(Survive)) %>% 
+  ggplot(aes(x = dist2, y = prop.survive)) +
+  geom_line() +
+  geom_point()
+```
+
+# Question 6
+
+Fitness is highest toward the center of the distribution, i.e. extreme values of plant height are being selected against. This is called stabilizing selection (don't need to know that here, we will talk about it in the future).

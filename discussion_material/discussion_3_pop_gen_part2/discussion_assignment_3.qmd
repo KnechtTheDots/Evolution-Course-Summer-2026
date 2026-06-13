@@ -1,0 +1,53 @@
+---
+title: "Discussion Assignment 3"
+format: docx
+---
+
+
+Reminder! Because I want to give you the answers to this assignment so you can check what you did for the exam, this assignment is due Friday June 12th by 10:10 AM.
+
+Data for questions is located in the Google sheet for the discussion. Genotypes are: 0 = A1A1, 1 = A1A2, 2 = A2A2. Please put your names at the top of the assignment (those of the group that contributed) and save as a pdf before submitting. You can do your work on paper and submit pictures if that is easier than doing it on the computer.
+
+
+
+## Question 1
+
+You measure survival for three genotypes in a population of sunflowers. The survival data is in the Google sheet: tab 1. Draw the adaptive topography. Are there any equilibrium points? If so, what are they.
+
+
+## Question 2
+
+If the A1 allele mutates to an A2 allele at a rate of 1 in 10000 per generation, what is the frequency of the A2 allele at mutation-selection balance? (Find the necessary data in the Google sheet)
+
+## Question 3
+
+You survey a population of oak trees in New York and another population in Virginia. The genotypes are in the Google sheet. What is F$_{ST}$ between the two populations?
+
+## Question 4
+
+### 4.1 
+
+A population of foxes has a size of 1000. If it currently has allele frequencies of p=q=0.5, what is the expected heterozygosity in 10 generations?
+
+### 4.2 
+
+The sex ratio at birth of this species of fox is 1:1. In general, they also have a sex ratio in the breeding population of 1:1, but a disease enters the population that causes 50% of the males to be sterile. The fertile males and all the females contribute to the breeding population. Starting with frequencies p=q=0.5, what is the heterozygosity of this population in 10 generations?
+
+
+## Question 5
+
+### 5.1
+
+You run an experiment to see how strong drift is in an Arabidopsis population of size 20. You start with a population that has allele frequencies p=q=0.5, and randomly mate 20 individuals each generation. Plot your expected heterozygosities at 5, 10, and 15 generations.
+
+### 5.2
+
+After 15 generations, you observe: p = .15, q = .85. How does this compare to your expectations from 5.1? Assuming that the heterozygosity of this population is representative of a large number of populations started with the same frequencies and population size, what is the effective population size (to the nearest 0.5).
+
+## Question 6
+
+You survey a population of butterflies living on an island off the coast of California and measure survival for three genotypes at the 'A' locus (data in Google sheet). You know from previous studies that the A2 allele on the island has a frequency of 0.8
+
+If the mainland population in California is fixed for the A1 allele, and there is a migration rate of 0.03 between the island and mainland. What is the frequency of the A2 allele on the island after a round of migration. How does the fitness of the island population change due to migration?
+
+

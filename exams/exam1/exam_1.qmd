@@ -1,0 +1,125 @@
+---
+title: "Exam 1"
+format: docx
+---
+
+
+For questions where data is needed, you can find it in the linked Google sheet. In the Google sheet, the genotypes are coded as: A1A1 = 0, A1A2 = 1, and A2A2 = 2. Please show your work, I will attempt to give partial credit where I can. Round answers to the third decimal place. Feel free to write your answers on paper then paste a picture into the final document, just please make them legible. Good luck!
+
+
+
+# Question 1 
+
+You are interested in the evolution of a flower color allele in phlox. The locus has two alleles: A1 and A2. You plant 50 plants of each genotype in 3 different environments. You can find the results of the experiment in the Google sheet. (15 pts)
+
+## Question 1.1
+
+What is the change in frequency of the A1 allele after one generation of selection in the first environment if the initial allele frequency is 0.9? 
+
+## Question 1.2
+
+What is the change in allele frequency of the A1 allele after one generation of selection in the second environment if the initial allele frequency is 0.9? 
+
+## Question 1.3
+
+What is the change in allele frequency of the A1 allele after one generation of selection in the third environment if the initial allele frequency is 0.9? 
+
+## Question 1.4
+
+Imagine that selection is the only mechanism of evolution acting on this locus. What is the ultimate frequency of the A1 allele in each environment? 
+
+## Question 1.5
+
+Are the allele frequency changes different or the same in 1.1, 1.2, and 1.3. If they are different, why do you think that is. If they are the same, what do you think is the reason for that? 
+
+# Question 2
+
+You are studying a population of water anoles *Anolis aquaticus* that you believe is a hybrid of two nearby populations. It appears that the hybrid population seems to have higher fitness than its neighbors and suspect that a gene linked to thermal efficiency is involved. While the neighbor populations are fixed for either the A1 or A2 allele, the hybrid population contains both. You genotype a bunch of young anoles and track their survival, the fitness data is in the Google sheet. (15 pts)
+
+## Question 2.1
+
+Draw the adaptive topography for this locus. 
+
+## Question 2.2
+
+If selection is the only mechanism of evolution acting on this locus, what is the ultimate allele frequency of the A1 allele if the starting frequency is 0.9? 
+
+## Question 2.3
+
+Are there any equilibrium frequencies at this locus in this population? If so, what are they and---in terms of Darwin's postulates for natural selection---why doesn't selection change the frequency at these points?
+
+# Question 3 
+
+Give an example of a vestigial trait. How does your chosen trait provide evidence of descent with modification? (5 pts)
+
+# Question 4 
+
+In the Hardy-Weinberg model, $2pq$ represents the frequency of heterozygotes in a population. Why? (5 pts)
+
+# Question 5 
+
+What are the components of phenotypic variation? Give an example of each. Which of the components provide variation that can lead to evolution through natural selection? (5 pts)
+
+# Question 6
+
+You are studying populations of deer in North America. You sample individuals from Pennsylvania and Kentucky and record genotypes at the 'A' locus. The data is in the Google sheet. (10 pts)
+
+## 6.1
+
+What is the Fst between the two populations.
+
+## 6.2
+
+If male deer are more prone to dispersal than female deer, what patterns of Fst might you expect to see on genes of the y chromosome vs autosomes?
+
+# Question 7
+
+You are studying drift in fruit flies. You start 5 populations of 30 individuals with allele frequencies at the 'A' locus of p = q = 0.5. (15 pts)
+
+## 7.1
+
+What is the expected heterozygosity of these populations at generation 10? Generation 20?
+
+## 7.2
+
+After 20 generations, the frequencies of the A1 allele in the 5 populations are: 0.45, 0, 0.15, 1, 0.2. What is the effective population size of these populations (estimate to the nearest 0.5)?
+
+## 7.3
+
+Does the effective population size differ from the census population size? What is a possible explanation for this?
+
+## 7.4
+
+Imagine starting populations of flies on 30 islands where they cannot migrate between islands. There is no selection, mutation, or migration at the locus. Each island population has an initial frequency for the A1 allele of 0.5. What do you think the frequency will be on each of the islands eventually? What will the frequency of the total population of all 30 islands be?
+
+# Question 8
+
+You are studying a population of snakes that live on an island near the mainland. The A1 allele causes banding and is beneficial on the mainland, but is deleterious in the island environment. The frequency of the A1 allele on the mainland is 0.8.(10 pts)
+
+## 8.1
+
+If the initial frequency of the A1 allele on the island is 0.5, what is its frequency after migration?
+
+## 8.2
+
+What is the initial Fst between the island and mainland populations?
+
+## 8.3
+
+If the relative fitness of the genotypes are: A1A1 = 0.75, A1A2 = 0.75, A2A2 = 1. Do you expect Fst to initially increase or decrease between the two populations?
+
+# Question 9 
+
+Consider the paper we read for class: "Sewall Wright's criticism of the gene's-eye view of evolution". In terms of the assumptions for a our null Hardy-Weinberg model, what is the main difference between Fisher's and Wright's views of evolution? (10 pts)
+
+# Question 10 
+
+You find a locus that has a completely recessive allele, let's call it A1. The relative fitness of the genotypes is: A1A1 = .9, A1A2 = 1, A2A2 = 1. At this locus the A2 allele mutates to A1 at a rate of 1 in 10,000. (10 pts)
+
+## 10.1
+
+What is the ultimate frequency of the A1 allele if only selection and mutation are acting on this locus?
+
+## 10.2
+
+How do you expect this frequency to change if A1 is not completely recessive to A2?

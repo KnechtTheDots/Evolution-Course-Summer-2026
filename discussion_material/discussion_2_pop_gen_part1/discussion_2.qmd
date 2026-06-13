@@ -1,0 +1,58 @@
+---
+title: "Discussion 2 Assignment"
+format: docx
+---
+
+## Question 1:
+
+You are studying a population of flowers that have 3 alleles at the flower color locus: A1, A2, and A3. You sample 1000 plants and genotype them at the locus. The genotype counts are: 290 A1A1, 100 A2A2, 70 A3A3, 410 A1A2, 100 A1A3, 230 A2A3. Is this flower color locus in Hardy-Weinberg equilibrium?
+
+
+## Question 2:
+
+You are studying the evolution of a lethal recessive allele in a population of anoles. The homozygous recessive genotype is completely lethal, the heterozygote and dominant homozygote are fine. You find that the allele has a frequency in the population of 0.01.
+
+### 2.1
+
+What is the ratio of heterozygotes to homozygotes in this population?
+
+### 2.2 
+
+How do you expect selection to change this ratio? What does this mean for selections ability to remove deleterious recessives?
+
+
+
+It is often useful to code genetic data numerically. We often do this by counting the number of alleles in a genotype. For example, if we are studying a locus with two alleles---A1 and A2---we can count the number of A2 alleles. In the A1A1 genotype, there are no A2 alleles so it is coded as 0, likewise A1A2 and A2A2 are coded as 1 and 2 respectively. For the remaining questions, genotypes will be coded in this manner in the data (i.e. representing the count of A2 alleles)
+
+
+
+## Question 3:
+
+Analyze the data in the question 3 sheet of the Google sheet. The sheet represents an experiment where we transplanted 100 monkeyflowers of known genotype at a flower color locus. We came back and measured whether or not they survived (coded as 1 for survive and 0 for died).
+
+### 3.1 What is the change in the frequency of the A1 allele if it's starting frequency is 0.8?
+
+### 3.2 What is the change in the frequency of the A1 allele if it's starting frequency is 0.2?
+
+### 3.3 Draw the adaptive topography for this fitness regime.
+
+## Question 4:
+
+We have done the same experiment as question 3, but measured survival in a new environment. The data is under the question 4 tab in the Google sheet.
+
+### 4.1 What is the change in the frequency of the A1 allele if it's starting frequency is 0.8?
+
+### 4.2 What is the change in the frequency of the A1 allele if it's starting frequency is 0.2?
+
+### 4.3 Draw the adaptive topography for this fitness regime.
+
+
+## Question 5:
+
+We have done the same experiment as questions 3 and 4, but measured survival in a yet a new environment. The data is under the question 5 tab in the Google sheet.
+
+### 5.1 What is the change in the frequency of the A1 allele if it's starting frequency is 0.8?
+
+### 5.2 What is the change in the frequency of the A1 allele if it's starting frequency is 0.2?
+
+### 5.3 Draw the adaptive topography for this fitness regime.

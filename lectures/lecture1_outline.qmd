@@ -1,0 +1,19 @@
+---
+title: "Brief History of Evolutionary Thinking"
+format:
+  docx: 
+    toc: true
+    toc-depth: 3
+---
+
+# Introductions
+
+## Syllabus
+
+
+# A Brief History of Evolutionary Thinking
+
+Three phases of the study of evolution.
+
+1. Pre Darwin
+2. 
